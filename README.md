@@ -1,3 +1,8 @@
+## Name DB in postgres
+   ```
+ejercicioDB
+   ``` 
+
 ## Create table in DB
 
    ```
